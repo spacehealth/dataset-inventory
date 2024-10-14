@@ -1,6 +1,6 @@
 # Dataset Inventory
 
-## 1. Dataset Title
+## 1. Dataset 
 - **Description**: Brief description of the dataset.
 - **Source**: Where the dataset is from (e.g., URL or institution).
 - **Format**: Format of the data (e.g., CSV, JSON).
